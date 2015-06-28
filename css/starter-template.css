@@ -23,3 +23,9 @@ body {
   border-color: red;
   color: white;
 }
+
+.btn:hover {
+  background-color: darkred;
+  border-color: darkred;
+  color: white;
+}
