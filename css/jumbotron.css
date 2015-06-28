@@ -1,0 +1,35 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-bottom: 50px;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	width: auto\9;
+}
+
+hr {
+	width: 150px;
+}
+
+.jumbotron {
+/*  background-image: url(../images/sleeping-beauty.jpg);*/
+  color: white;
+/*  text-shadow: 0 1px 3px rgba(0,0,0,.5);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;*/
+  background-color: turquoise;
+  margin-bottom: 0;
+  padding-bottom: 30px;
+  text-align: center;
+}
+
+
+.btn-default {
+	background: turquoise;
+	border-color: darkgrey;
+	color: white;
+}
