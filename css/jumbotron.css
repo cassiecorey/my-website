@@ -9,8 +9,15 @@ img {
 	width: auto\9;
 }
 
-hr {
+hr.jumbo {
 	width: 150px;
+}
+
+hr.content {
+	width: 50%;
+	margin-left: 25%;
+	margin-top: 10px;
+	margin-bottom: 0px;
 }
 
 .jumbotron {
@@ -36,4 +43,8 @@ hr {
 
 .top-padding {
 	padding-top: 45px;
+}
+
+.subj-img {
+	padding: 25px;
 }
